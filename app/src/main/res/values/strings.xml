@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P2_7s21</string>
+    <string name="p1texto1">Programando Android</string>
+    <string name="img1">spiderman</string>
+    <string name="p2texto2">Bienvenido</string>
+    <string name="p3texto3">Pagina 2 del programa</string>
+    <string name="img2">kratos</string>
+</resources>
